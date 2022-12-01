@@ -2,9 +2,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstmdgjs&show_icons=true&theme=graywhite)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 <br>
 <br>
@@ -32,6 +29,16 @@
 <p align="center">
      <a href="https://velog.io/@gkstmdgjs"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
+
+<br>
+<br>
+<br>
+
+<img src="https://ghchart.rshah.org/545454/gkstmdgjs/"/>
+
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkstmdgjs&count_bg=%545454&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
