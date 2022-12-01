@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=ffff&height=250&text=Cat%20Cute&fontColor=545454&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff00&height=250&text=Cat%20Cute&fontColor=545454&fontSize=100)
 
 <h3 align="center">📚Stack📚</h3>
 <p align="center">
