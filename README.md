@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffff&height=250&text=Cat%20Cute&fontColor=545454&fontSize=100)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstmdgjs&show_icons=true&theme=graywhite)
-
-<br>
-<br>
-<br>
-
 <h3 align="center">✨Stack✨</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -34,7 +27,7 @@
 <br>
 <br>
 
-<img src="https://ghchart.rshah.org/219138/jamesujeon"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstmdgjs&show_icons=true&theme=graywhite)
 
 <br>
 <br>
