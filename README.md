@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffff&height=250&text=Cat%20Cute&fontColor=545454&fontSize=100)
 
-<h3 align="center">✨Stack✨</h3>
+<h3 align="center">📚Stack📚</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -24,7 +24,7 @@
 <br>
 <br>
 <br>
-
+<h3 align="center">✨me✨</h3>
 <p align="center">
      <a href="https://velog.io/@gkstmdgjs"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
