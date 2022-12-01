@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@gkstmdgjs"/>
 </p>
 
 
