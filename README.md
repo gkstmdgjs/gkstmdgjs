@@ -1,6 +1,8 @@
 ## Hello World! :) 🙌
 **Cat Cute**
 - Strong Developer
+-     <a href="https://velog.io/@gkstmdgjs"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a> 
+<br/>
 - My Skiils
     - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     
@@ -12,7 +14,5 @@
 <br/>
 
 <p align="center">
-    <a href="https://velog.io/@gkstmdgjs"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a> 
-<br/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkstmdgjs&count_bg=%545454&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=history&edge_flat=false"/></a>
 </p>
