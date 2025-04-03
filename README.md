@@ -10,4 +10,3 @@
     - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
     
     - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<br/>
