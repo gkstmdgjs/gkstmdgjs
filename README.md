@@ -11,7 +11,3 @@
     
     - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <br/>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkstmdgjs&count_bg=%545454&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=history&edge_flat=false"/></a>
-</p>
